@@ -1,0 +1,10 @@
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\bin\Debug\ClientTaxiUI.exe.config
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\bin\Debug\ClientTaxiUI.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\bin\Debug\ClientTaxiUI.pdb
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.csprojAssemblyReference.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.Properties.Resources.resources
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.csproj.GenerateResource.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.csproj.CoreCompileInputs.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.pdb
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxiUI\obj\Debug\ClientTaxiUI.Form1.resources
