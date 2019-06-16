@@ -1,0 +1,16 @@
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.exe.config
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.pdb
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.csprojAssemblyReference.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.csproj.CoreCompileInputs.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.pdb
+J:\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.exe.config
+J:\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.exe
+J:\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.pdb
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.exe.config
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.exe
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\bin\Debug\ClientTaxi.pdb
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.csprojResolveAssemblyReference.cache
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.exe
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ClientTaxi\obj\Debug\ClientTaxi.pdb
