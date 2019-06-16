@@ -1,0 +1,27 @@
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe.config
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.pdb
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.csproj.CoreCompileInputs.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.exe
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.pdb
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.csprojAssemblyReference.cache
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\MySql.Data.dll
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\Google.Protobuf.dll
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\bin\Debug\MySql.Data.xml
+C:\Users\yDeta\Documents\Repository\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.csproj.CopyComplete
+J:\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe.config
+J:\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.exe
+J:\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.pdb
+J:\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe
+J:\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.pdb
+J:\ClientTaxi\ServerTaxi\bin\Debug\Google.Protobuf.dll
+J:\ClientTaxi\ServerTaxi\bin\Debug\MySql.Data.xml
+J:\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.csprojResolveAssemblyReference.cache
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe.config
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.exe
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.pdb
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.exe
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\bin\Debug\ServerTaxi.pdb
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\bin\Debug\Google.Protobuf.dll
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\bin\Debug\MySql.Data.xml
+C:\Users\lubam\OneDrive\Документы\Универ\6 семестр\программирование\ClientTaxi\ServerTaxi\obj\Debug\ServerTaxi.csprojResolveAssemblyReference.cache
